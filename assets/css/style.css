@@ -776,7 +776,9 @@ h5.card-title {
 .about .content p:last-child {
   margin-bottom: 0;
 }
-
+.shadow-sm {
+  margin: 10px 0;
+}
 
 /*--------------------------------------------------------------
 # Counts
