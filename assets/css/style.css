@@ -1219,6 +1219,9 @@ margin: 0 150px;
 
 #footer .social-links {
   padding: 23px 0 19px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 #footer .social-links a {
