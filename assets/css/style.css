@@ -599,7 +599,7 @@ li.nav-item {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 20px 0;
   overflow: hidden;
 }
 
@@ -937,7 +937,7 @@ h5.card-title {
 
 .portfolio-info-one {
   height: 500px;
-  padding: 10px 0 30px;
+  padding: 10px 0 40px;
 }
 
 .portfolio-info-two {
@@ -1162,11 +1162,6 @@ a.logo-footer img {
   background: #0E4682;
   text-align: center;
 }
-
-/* .d-md-flex {
-  display: flex !important;
-  justify-content: center;
-} */
 
 .footer-navbar {
 margin: 0 150px;
