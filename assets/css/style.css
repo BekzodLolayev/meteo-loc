@@ -802,7 +802,7 @@ h5.card-title {
 
 .counts .count-box {
   border-top: 1px solid #CFD3D7;
-  padding: 23px 0 74px;
+  padding: 20px 0;
 }
 
 .counts .count-box:not(:last-child) {
